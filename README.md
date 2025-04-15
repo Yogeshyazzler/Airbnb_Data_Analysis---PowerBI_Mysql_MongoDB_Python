@@ -52,13 +52,13 @@ Sample structure:
   ]
 }
 
-🔁 Project Workflow
--MongoDB Setup & Data Import
--Create a MongoDB Atlas account and cluster.
--Import sample Airbnb data into your collection.
--Data Cleaning & Preparation
--Handle missing values, remove duplicates.
--Standardize data types for consistent analysis.
+## 🔁 Project Workflow
+- MongoDB Setup & Data Import
+- Create a MongoDB Atlas account and cluster.
+- Import sample Airbnb data into your collection.
+- Data Cleaning & Preparation
+- Handle missing values, remove duplicates.
+- Standardize data types for consistent analysis.
 
 Exploratory Data Analysis (EDA)
 -Analyze pricing, availability, and review trends.
