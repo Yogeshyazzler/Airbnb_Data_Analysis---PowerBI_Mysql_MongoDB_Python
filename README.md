@@ -38,7 +38,6 @@ The dataset includes details such as:
 - Ratings & Reviews
 
 Sample structure:
-```json
 {
   "_id": "unique_listing_id",
   "name": "listing_title",
